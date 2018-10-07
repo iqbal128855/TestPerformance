@@ -1,0 +1,44 @@
+2018-09-25 14:38:27,466 INFO 127.0.1.1 Start RunTest
+2018-09-25 14:38:27,752 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 15:11:28,054 INFO 127.0.1.1 Start RunTest
+2018-09-25 15:11:28,347 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 15:12:24,587 INFO 127.0.1.1 Start RunTest
+2018-09-25 15:12:24,881 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 15:12:53,513 INFO 127.0.1.1 Start RunTest
+2018-09-25 15:12:53,806 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 15:58:55,013 INFO 127.0.1.1 Start RunTest
+2018-09-25 15:58:55,301 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:01:38,940 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:01:39,230 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:02:54,787 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:02:55,085 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:04:03,136 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:04:03,429 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:04:44,686 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:04:44,975 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:06:54,326 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:06:54,657 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:06:55,396 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:10:41,325 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:10:41,662 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:10:42,396 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:12:08,371 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:12:08,693 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:12:09,430 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:13:58,336 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:13:58,665 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:13:59,398 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:14:35,485 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:14:57,143 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:14:57,476 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:14:58,231 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:19:52,062 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:19:52,384 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:19:53,102 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:19:53,845 INFO 127.0.1.1 emmc frequency set is successful
+2018-09-25 16:19:54,006 INFO 127.0.1.1 gpu frequency set is successful
+2018-09-25 16:33:07,935 INFO 127.0.1.1 Start RunTest
+2018-09-25 16:33:08,153 INFO 127.0.1.1 Frequency of cpu3 is : 614400
+2018-09-25 16:33:08,617 INFO 127.0.1.1 all the big cores are enabled
+2018-09-25 16:33:09,088 INFO 127.0.1.1 emmc frequency set is successful
+2018-09-25 16:33:09,246 INFO 127.0.1.1 gpu frequency set is successful
